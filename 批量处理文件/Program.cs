@@ -10,7 +10,8 @@ namespace 批量处理文件
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wolrd!");
+            Console.WriteLine("批量处理文件程序");
+            Console.WriteLine("1.将目标文件夹复制到指定目录中的每个文件夹中");
         }
     }
 }
