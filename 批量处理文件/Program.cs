@@ -10,6 +10,7 @@ namespace 批量处理文件
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Wolrd!");
         }
     }
 }
