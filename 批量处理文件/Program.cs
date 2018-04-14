@@ -22,7 +22,8 @@ namespace 批量处理文件
         }
         static void CopyFile()
         {
-
+            Console.WriteLine("请输入源文件夹地址，输入0返回上一步");
+            
         }
     }
 }
